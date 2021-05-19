@@ -9,3 +9,5 @@ def adding(num):
 	
 	time - 10.05
 	
+	github time - 10.06
+	
