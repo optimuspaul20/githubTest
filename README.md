@@ -7,3 +7,5 @@ def adding(num):
 	
 	some nothing
 	
+	time - 10.05
+	
